@@ -1,5 +1,6 @@
 ﻿# Streeng
-Streeng is an indexing tool for string arrays. If you make `MakeStreeng` with string array, it builds new rune tree.
+Streeng is an indexing tool for string arrays. If you make `MakeStreeng` with string array, it builds new rune tree. 
+You can use this package for a lot of query. Query number may be millions, may be billions. Queries are very fast like 5 nanoseconds.
 
 ## How does it work?
 
